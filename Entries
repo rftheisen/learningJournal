@@ -5,35 +5,27 @@
     4. Build hyperconverged home lab by March 20th 
     5. Build remote access lab functionality for classes by March 20th
 
-# March 14th entry 
-It has been a little while since I last journaled. The last time I journaled was when I was going to Skilstak every Monday. I had issues keeping up with school, father duties and teaching. I plan on returning soon. 
-The NCCIA conference was worth while. The coronavirus caused many presentations to be cancelled which limited the overall value of the conference however, I was able to meet some incredible people. 
-The content I gathered from my interview with Mark Ciampa inspired me to upload much of the video content that was waisting away on my drive. I am interested in seeing how the global community responds to the videos I have posted. 
-
-# Video Content Ideas 
-    - Understanding Hyperconvergence 
-        - What is it? 
-        - Where does it come from? 
-        - Practical examples
-        - The value 
-    - Practical Subnetting
-    - Engaging your IT learners during the Coronavirus (completed this video:https://www.youtube.com/watch?v=zbnNqoB0iQ0)
-        - Provide examples of remote access tools 
-        - Provide examples of cloud based learning environments (AWS, Azure, GCP, etc...)
-        - Creative ways to communicate (Keep Talking and Nobody Explodes)
-        - Low bandwidth video content solutions
-        - Work with your IT department to allow remote access into a DMZ for students to get access to real equipment 
-        - Buy access to NetLabs
-
-
 
 # March 21st: Twitch Live Stream
 
+Trying to break into Traceback on HacktheBox
 Learning Objectives: 
 
 1. Using OpenVPN in Kali to connect to a remote network 
+- Must have a vpn profile configuration file 
+- Must run sudo openvpn "config file name" from within the directory the file is in
 
 2. Getting familiar interface and tools 
+- practices with nmap from the command line
+- learn how to use Burp suite
+- Metasploit has various modules that allow you to exploit different threat vectors
+    - Requires parameters to be set in order to launch an attack module. Some parameters include: 
+    * Set RHost equal to the target device 
+    * Set USRPASSWORD file equal to password files to allow metasploit to guess 
+    * Set Verbose 
+    * May want to try this recon framework: https://github.com/r3p3r/fsociety
+    * Heres how to setup: https://www.youtube.com/watch?v=t3uYpMrK2EU
+- Use searchsploit to find vulnerable and unpatched programs
 
 3. Get proficient at using VMware Esxi interface to create and use VMs 
 
