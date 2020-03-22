@@ -1,2 +1,2 @@
 # learningJournal
- Captured thoughts for myself and others
+ Captured thoughts and ideas for myself and others
