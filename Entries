@@ -1,4 +1,4 @@
-# Learning Goals for this week
+# Learning Goals for the rest of 2020
     1. Pass CEH by May 15th *Scheduled* 
     2. Schedule OSCP for some time in August 
     3. Finish Cisco CCNA video series on YouTube by June 1st 
@@ -6,7 +6,7 @@
     5. Build remote access lab functionality for classes by March 20th
 
 
-# March 21st: Twitch Live Stream
+# March 21st
 
 Trying to break into Traceback on HacktheBox
 Learning Objectives: 
@@ -31,3 +31,5 @@ Learning Objectives:
 3. Get proficient at using VMware Esxi interface to create and use VMs 
 
 4. Develop a solid Scanning & Enumeration methodology 
+
+We were not able to break into the box before the end of the stream.
