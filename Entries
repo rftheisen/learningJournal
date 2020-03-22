@@ -12,11 +12,11 @@ Trying to break into Traceback on HacktheBox
 Learning Objectives: 
 
 1. Using OpenVPN in Kali to connect to a remote network 
-- Must have a vpn profile configuration file 
+- Must have a vpn profile configuration file. This can be downloaded from the Hackthebox site once you have an account
 - Must run sudo openvpn "config file name" from within the directory the file is in
 
-2. Getting familiar interface and tools 
-- practices with nmap from the command line
+2. Getting familiar interface,tools and methodology
+- practice with nmap from the command line
 - learn how to use Burp suite
 - Metasploit has various modules that allow you to exploit different threat vectors
     - Requires parameters to be set in order to launch an attack module. Some parameters include: 
@@ -26,6 +26,7 @@ Learning Objectives:
     * May want to try this recon framework: https://github.com/r3p3r/fsociety
     * Heres how to setup: https://www.youtube.com/watch?v=t3uYpMrK2EU
 - Use searchsploit to find vulnerable and unpatched programs
+- Reference https://osintframework.com/ as you think through the attack and defend process
 
 3. Get proficient at using VMware Esxi interface to create and use VMs 
 
