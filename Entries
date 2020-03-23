@@ -43,5 +43,5 @@ Host info
 * IP add 10.10.10.181 
 * Operating Sytem Ubuntu 
 * Ports open SSH (22) & HTTP (80)
-
+* Running Apache 2.4.29
 
