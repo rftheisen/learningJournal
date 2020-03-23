@@ -45,3 +45,6 @@ Host info
 * Ports open SSH (22) & HTTP (80)
 * Running Apache 2.4.29
 
+- Entered Smevk.php in directory path of url for on the web server which allowed me to reach a web admin portal with admin admin 
+as the credentials
+
