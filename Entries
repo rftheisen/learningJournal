@@ -51,6 +51,7 @@ as the credentials
 - Metaspoit is an attack framework that has some great attack tools and modules based on threat vector 
 Here are the commands for an ssh bruteforce module: 
 
+Setting parameters in Metasploit for the ssh_login auxilliary module 
 search ssh 
 use auxillary/scanner/ssh/ssh_login
 show options 
@@ -59,3 +60,5 @@ set PASS_FILE *directory to passwords list*
 set USER_FILE *full path to file with users list*
 run 
 sessions -i "pick session number" 
+
+# Breaking into Starting Point
