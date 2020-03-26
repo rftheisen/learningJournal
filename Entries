@@ -62,3 +62,9 @@ run
 sessions -i "pick session number" 
 
 # Breaking into Starting Point
+- look into evil-win rm 
+- look into mount.cifs 
+- Impacket must be installed using pip because it is written in python 
+- Must be in the impacket directory to run mssqlclient.py module 
+- Stuck at reverse shell step 
+    - Should this be left on the Windows box or Kali, how come the command isn't working in Powershell
