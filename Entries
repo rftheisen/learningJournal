@@ -83,6 +83,7 @@ sessions -i "pick session number"
 - Stuck at reverse shell step 
     - Should this be left on the Windows box or Kali, how come the command isn't working in Powershell
 - Look into smbmap
+- the pip install got interuppted because I switched from wireless nic to physical nic in the middle of installing pip so we needed to fix using 
 
 # Breaking into lame 
 Network: Starting Point 
