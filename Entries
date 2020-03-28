@@ -84,6 +84,11 @@ sessions -i "pick session number"
     - Should this be left on the Windows box or Kali, how come the command isn't working in Powershell
 - Look into smbmap
 - the pip install got interuppted because I switched from wireless nic to physical nic in the middle of installing pip so we needed to fix using 
+- Started using tmux to eliminate distractions and increase productivity 
+- We started a python web server and included a powershell script to get a reverse shell from Windows box to Kali system 
+- We used psexec to establish a persistent shell and get local admin rights
+- Used type command from within windows cmd to view the contents of the txt file
+
 
 # Breaking into lame 
 Network: Starting Point 
