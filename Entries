@@ -79,5 +79,14 @@ sessions -i "pick session number"
 - look into mount.cifs 
 - Impacket must be installed using pip because it is written in python 
 - Must be in the impacket directory to run mssqlclient.py module 
+- Must have python-pip to install impacket and use the modules
 - Stuck at reverse shell step 
     - Should this be left on the Windows box or Kali, how come the command isn't working in Powershell
+- Look into smbmap
+
+# Breaking into lame 
+Network: Starting Point 
+IP address: 10.10.10.3
+
+Nmap skills: 
+
