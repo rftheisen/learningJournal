@@ -111,9 +111,11 @@ Setup process in VMware esxi:
 Setting up and testing Ubuntu Client in GNS3 with nested virtualization: 
 
 - Must upload a VMDK file from client to server when creating the appliance 
-https://www.osboxes.org/ubuntu/#ubuntu-19-04-vmware
+    https://www.osboxes.org/ubuntu/#ubuntu-19-04-vmware
 - Then you must specify the ISO that is going to be used to book the VM into Ubuntu
 - GNS3 has tightvnc integrated for graphical terminal access to the OS
 - When using ssh to connect to the router Ubuntu returns an error that indicates an older cipher suite is being used on the router, this prevents successful connection
-- Trying telnet worked, we will comeback to the ssh issue at a later time
-https://www.openssh.com/legacy.html
+- Trying telnet worked, we will comeback to the ssh
+    https://www.openssh.com/legacy.html
+- dsqst found that we needed to use a less secure cipther to connect via Ubuntu so we used this command: 
+    ssh -c aes128-cbc ltn@192.168.0.1
