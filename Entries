@@ -103,6 +103,7 @@ Nmap skills:
 Setup process in VMware esxi: 
 - Used: https://docs.gns3.com/1hEoK0rmtdBRnMaUaVoMHUbYwtDAltXYShiMJUp1GMxk/index.html
 - Memory accolation recommendations: https://www.rogerperkin.co.uk/ccie/ccie-virtual-rack-csr-1000v-routers/
+- Generally you are going to need more memory as your environments grow in complexity
 
 - Building our own Hackthebox type infrastructure for Pentest practice and improving Network/Sys Admin skills 
 - History of virutalzation: https://www.networkworld.com/article/2254433/with-long-history-of-virtualization-behind-it--ibm-looks-to-the-future.html
