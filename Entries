@@ -100,5 +100,8 @@ Nmap skills:
 
 # Network Virtualization with GNS3 
 
+Setup process in VMware esxi: 
+- Used: https://docs.gns3.com/1hEoK0rmtdBRnMaUaVoMHUbYwtDAltXYShiMJUp1GMxk/index.html
+
 - Building our own Hackthebox type infrastructure for Pentest practice and overt Network/Sys Admin skills 
 - History of virutalzation: https://www.networkworld.com/article/2254433/with-long-history-of-virtualization-behind-it--ibm-looks-to-the-future.html
