@@ -107,4 +107,10 @@ Setup process in VMware esxi:
 
 - Building our own Hackthebox type infrastructure for Pentest practice and improving Network/Sys Admin skills 
 - History of virutalzation: https://www.networkworld.com/article/2254433/with-long-history-of-virtualization-behind-it--ibm-looks-to-the-future.html
--
+
+Setting up Ubuntu Client in GNS3: 
+
+- Must upload a VMDK file from client to server when creating the appliance 
+https://www.osboxes.org/ubuntu/#ubuntu-19-04-vmware
+- Then you must specify the ISO that is going to be used to book the VM into Ubuntu
+- GNS3 has tightvnc integrated for graphical terminal access to the OS
