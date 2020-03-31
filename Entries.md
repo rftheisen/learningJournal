@@ -120,5 +120,6 @@ sessions -i "pick session number"
 - Trying telnet worked, we will comeback to the ssh
     https://www.openssh.com/legacy.html
 - dsqst found that we needed to use a less secure cipther to connect via Ubuntu so we used this command: 
-   ``` ssh -c aes128-cbc ltn@192.168.0.1 ```
+
+``` ssh -c aes128-cbc ltn@192.168.0.1 ```
 - In the industry it would recommended that we upgrade the IOS image on the device to an images with up to date ciphers and methods with SSH 
