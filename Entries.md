@@ -17,11 +17,15 @@
 
 # Accomplished:
 
-1. Build hyperconverged home lab by March 20th 
-2. Build remote access lab functionality for classes by March 20th
+-  Build hyperconverged home lab by March 20th 
+-  Build remote access lab functionality for classes by March 20th
 
 
-Trying to break into Traceback on HacktheBox
+
+# Breaking into Starting Point
+
+## Trying to break into Traceback on HacktheBox
+
 Learning Objectives: 
 
 1. Using OpenVPN in Kali to connect to a remote network 
@@ -44,10 +48,6 @@ Learning Objectives:
 3. Get proficient at using VMware Esxi interface to create and use VMs 
 
 4. Develop a solid Scanning & Enumeration methodology 
-
-
-
-# Breaking into Starting Point
 - look into evil-win rm 
 - look into mount.cifs 
 - Impacket must be installed using pip because it is written in python 
