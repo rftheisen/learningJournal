@@ -45,7 +45,32 @@ Learning Objectives:
 
 4. Develop a solid Scanning & Enumeration methodology 
 
-# March 22nd 
+
+
+# Breaking into Starting Point
+- look into evil-win rm 
+- look into mount.cifs 
+- Impacket must be installed using pip because it is written in python 
+- Must be in the impacket directory to run mssqlclient.py module 
+- Must have python-pip to install impacket and use the modules
+- Stuck at reverse shell step 
+    - Should this be left on the Windows box or Kali, how come the command isn't working in Powershell
+- Look into smbmap
+- the pip install got interuppted because I switched from wireless nic to physical nic in the middle of installing pip so we needed to fix using 
+- Started using tmux to eliminate distractions and increase productivity 
+- We started a python web server and included a powershell script to get a reverse shell from Windows box to Kali system 
+- We used psexec to establish a persistent shell and get local admin rights
+- Used type command from within windows cmd to view the contents of the txt file
+
+
+# Breaking into lame 
+Network: Starting Point 
+IP address: 10.10.10.3
+
+Nmap skills: 
+
+
+# Breaking into Traceback
 
 Still Trying to break into Traceback 
 Learning Objectives: 
@@ -73,29 +98,6 @@ set PASS_FILE *directory to passwords list*
 set USER_FILE *full path to file with users list*
 run 
 sessions -i "pick session number" 
-
-# Breaking into Starting Point
-- look into evil-win rm 
-- look into mount.cifs 
-- Impacket must be installed using pip because it is written in python 
-- Must be in the impacket directory to run mssqlclient.py module 
-- Must have python-pip to install impacket and use the modules
-- Stuck at reverse shell step 
-    - Should this be left on the Windows box or Kali, how come the command isn't working in Powershell
-- Look into smbmap
-- the pip install got interuppted because I switched from wireless nic to physical nic in the middle of installing pip so we needed to fix using 
-- Started using tmux to eliminate distractions and increase productivity 
-- We started a python web server and included a powershell script to get a reverse shell from Windows box to Kali system 
-- We used psexec to establish a persistent shell and get local admin rights
-- Used type command from within windows cmd to view the contents of the txt file
-
-
-# Breaking into lame 
-Network: Starting Point 
-IP address: 10.10.10.3
-
-Nmap skills: 
-
 
 
 # Network Virtualization with GNS3 
