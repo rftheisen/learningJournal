@@ -89,7 +89,7 @@ as the credentials
 - Metaspoit is an attack framework that has some great attack tools and modules based on threat vector 
 Here are the commands for an ssh bruteforce module: 
 
-Setting parameters in Metasploit for the ssh_login auxilliary module 
+``` Setting parameters in Metasploit for the ssh_login auxilliary module 
 search ssh 
 use auxillary/scanner/ssh/ssh_login
 show options 
@@ -98,7 +98,7 @@ set PASS_FILE *directory to passwords list*
 set USER_FILE *full path to file with users list*
 run 
 sessions -i "pick session number" 
-
+```
 
 # Network Virtualization with GNS3 
 
@@ -110,7 +110,7 @@ sessions -i "pick session number"
 - Building our own Hackthebox type infrastructure for Pentest practice and improving Network/Sys Admin skills 
 - History of virutalzation: https://www.networkworld.com/article/2254433/with-long-history-of-virtualization-behind-it--ibm-looks-to-the-future.html
 
-Setting up and testing Ubuntu Client in GNS3 with nested virtualization: 
+## Setting up and testing Ubuntu Client in GNS3 with nested virtualization: 
 
 - Must upload a VMDK file from client to server when creating the appliance 
     https://www.osboxes.org/ubuntu/#ubuntu-19-04-vmware
