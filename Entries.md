@@ -102,7 +102,7 @@ sessions -i "pick session number"
 
 # Network Virtualization with GNS3 
 
-Setup process in VMware esxi: 
+## Setup process in VMware esxi: 
 - Used: https://docs.gns3.com/1hEoK0rmtdBRnMaUaVoMHUbYwtDAltXYShiMJUp1GMxk/index.html
 - Memory accolation recommendations: https://www.rogerperkin.co.uk/ccie/ccie-virtual-rack-csr-1000v-routers/
 - Generally you are going to need more memory as your environments grow in complexity
