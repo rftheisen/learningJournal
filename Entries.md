@@ -85,6 +85,12 @@ Openvas Skills:
 Web based vulneratbility scanner
 - Must create default user after install
 
+Cool podcasts: 
+
+- RunAs radio
+- Darknet diaries 
+- Malicious Life 
+
 
 # Breaking into Traceback
 
