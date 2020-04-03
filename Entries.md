@@ -80,6 +80,11 @@ dirbuster skills:
 Syntax to start an attack is:
     ```sudo dirb: url /usr/share/wordlists/dirbuster/whateverwordlistsarehere.txt```
 
+Openvas Skills: 
+
+Web based vulneratbility scanner
+- Must create default user after install
+
 
 # Breaking into Traceback
 
