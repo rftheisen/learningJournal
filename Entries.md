@@ -84,6 +84,7 @@ Openvas Skills:
 
 Web based vulneratbility scanner
 - Must create default user after install
+- Still need to get openvas running properly and login
 
 Cool podcasts: 
 
