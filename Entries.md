@@ -66,6 +66,8 @@ Learning Objectives:
 # Breaking into Oopsie
 Network: Starting Point 
 IP address: 10.10.10.28
+OS: Ubuntu
+LAMP Stack: Apache 2.4.29
 
 Nmap skills: 
 
