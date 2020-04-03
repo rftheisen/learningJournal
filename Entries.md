@@ -63,11 +63,20 @@ Learning Objectives:
 - Used type command from within windows cmd to view the contents of the txt file
 
 
-# Breaking into lame 
+# Breaking into Oopsie
 Network: Starting Point 
-IP address: 10.10.10.3
+IP address: 10.10.10.28
 
 Nmap skills: 
+
+Basic nmap scan using: 
+
+    ``` nmap 10.10.10.28 ```
+
+dirbuster skills: 
+- dirbuster allows you to bruteforce a website using a word list 
+Syntax to start an attack is:
+    ```sudo dirb: url /usr/share/wordlists/dirbuster/whateverwordlistsarehere.txt```
 
 
 # Breaking into Traceback
