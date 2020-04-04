@@ -91,6 +91,11 @@ Nikto Skills:
 - Nikto is a web vulnerability scanner
 - It found a login page in /cdn-cgi/login
 
+Thc hydra skills: 
+- Used for brute forcing web form
+- Used this site to learn syntax: 
+http://insidetrust.blogspot.com/2011/08/using-hydra-to-dictionary-attack-web.html
+
 Cool podcasts: 
 
 - RunAs radio
