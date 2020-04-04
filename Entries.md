@@ -85,6 +85,11 @@ Openvas Skills:
 Web based vulneratbility scanner
 - Must create default user after install
 - Still need to get openvas running properly and login
+- I decided to use Nikto for the vuln scannner 
+
+Nikto Skills: 
+- Nikto is a web vulnerability scanner
+- It found a login page in /cdn-cgi/login
 
 Cool podcasts: 
 
