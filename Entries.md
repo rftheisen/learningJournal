@@ -158,3 +158,10 @@ https://labgopher.com/
 
     ``` ssh -c aes128-cbc ltn@192.168.0.1 ```
 - In the industry it would recommended that we upgrade the IOS image on the device to an images with up to date ciphers and methods with SSH 
+
+## Setting up and testing Windows Server 2016 in GNS3: 
+- The Windows Server appliance on GNS3s Marketplace does not work properly
+- Must get .gns3a code from Github repo, and create your own file.Make sure to give it .gns3a extension
+- Download qemu config file straight from appliance import screen
+- Once all the file are uploaded make sure you turn on the device :p!
+    - I spent far too much time trying to troubleshoot an error message when really I needed to just power the appliance on.
