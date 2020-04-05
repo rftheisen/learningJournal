@@ -142,6 +142,8 @@ sessions -i "pick session number"
 
 - Building our own Hackthebox type infrastructure for Pentest practice and improving Network/Sys Admin skills 
 - History of virutalzation: https://www.networkworld.com/article/2254433/with-long-history-of-virtualization-behind-it--ibm-looks-to-the-future.html
+- Purchasing, selling and giving away lab equipment: 
+https://labgopher.com/
 
 ## Setting up and testing Ubuntu Client in GNS3 with nested virtualization: 
 
